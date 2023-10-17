@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlessonTh
 - 👀 I’m interested in learning new things and it has now become a hobby.
-- 🌱 I’m currently learning to python for designing  GUI 
+- 🌱 I’m currently getting my hands dirty with cloud services 
 - 📫 How to reach me through my mail blessonthomas6464@gmail.com
 
 <!---
